@@ -1,0 +1,12 @@
+{
+  "name": "icq-mode",
+  "version": "1.0.0",
+  "description": "Retro 1990s instant-messenger look & feel for Claude Code: chat-window replies, flower status bar, and 'incoming message' sounds.",
+  "author": {
+    "name": "daogurtsov"
+  },
+  "homepage": "https://github.com/daogurtsov/claude-icq-mode",
+  "repository": "https://github.com/daogurtsov/claude-icq-mode",
+  "license": "MIT",
+  "keywords": ["icq", "retro", "output-style", "statusline", "fun"]
+}

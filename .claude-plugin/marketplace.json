@@ -1,0 +1,16 @@
+{
+  "name": "claude-icq-mode",
+  "description": "Retro instant-messenger themes for Claude Code",
+  "owner": {
+    "name": "daogurtsov"
+  },
+  "plugins": [
+    {
+      "name": "icq-mode",
+      "source": "./plugins/icq-mode",
+      "description": "Retro 1990s instant-messenger look & feel for Claude Code: chat-window replies, flower status bar, and 'incoming message' sounds.",
+      "version": "1.0.0",
+      "category": "fun"
+    }
+  ]
+}
